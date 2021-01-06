@@ -1,2 +1,2 @@
 # project_python
-Python project templates
+Python pandas data analytics
