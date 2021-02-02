@@ -3,7 +3,11 @@ Python pandas data analytics
 
 ## To do:
 
-* Pandas 
+* python enrivonment
+
+* version control git
+
+* data analysis with Pandas 
 
 * python data viz
 
